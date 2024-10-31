@@ -46,7 +46,7 @@ PRODUCT_COPY_FILES += \
 
 # Shims
 PRODUCT_PACKAGES += \
-    libshim_gps
+    libshim_gpsd
 
 # VNDK
 PRODUCT_COPY_FILES += \
